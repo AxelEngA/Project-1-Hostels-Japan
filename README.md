@@ -5,4 +5,6 @@
 * Used pivot tables to aggregate data.
 * Created a dashboard to showcase insights.
 
+![alt text](https://github.com/AxelEngA/Project-1-Hostels-Japan/JapanHostelProjectOrangeV2.png "Dashboard")
+
 
